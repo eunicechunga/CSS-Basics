@@ -1,0 +1,51 @@
+/**** setting font size for body ****/
+body {
+  font-size: 14px;
+}
+
+/**** setting bg color, height, etc. to navigation bar ****/
+nav {
+  background-color: yellow;
+  height: 100px;
+  margin-top: -10px;
+  position: fixed;
+  width: 100%;
+}
+
+/**** setting margin and width to section ****/
+
+section {
+  margin: 0 auto;
+  width: 60%;
+}
+
+/**** setting font size and typeface to the content in the top header portion  ****/
+
+h1 {
+  font-family: sans-serif;
+  font-size: 2em;
+}
+
+.example h3 {
+  padding-top: 30px;
+  text-align: center;
+}
+
+/**** setting font size and spacing format for h3 content in green ****/
+
+h3 {
+  font-size: 1.3em;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.element {
+  background-color: green;
+}
+
+/**** setting color for hw class to blue ****/
+
+.hw {
+  background-color: blue;
+}
